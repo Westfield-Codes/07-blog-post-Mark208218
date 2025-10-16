@@ -1,18 +1,21 @@
-body{margin-top:20px;}
+body{margin-top:10px;}
 .blog-listing {
     padding-top: 30px;
     padding-bottom: 30px;
 }
 .gray-bg {
-    background-color: #f5f5f5;
+    background-color: #18d071;
+}
+.container {
+  color:rgb(0, 0, 0);
 }
 /* Blog 
 ---------------------*/
 .blog-grid {
-  box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+  box-shadow: 0 0 30px rgba(10, 85, 170, 0.125);
   border-radius: 5px;
   overflow: hidden;
-  background: #ffffff;
+  background: #80de33;
   margin-top: 15px;
   margin-bottom: 15px;
 }
@@ -22,7 +25,7 @@ body{margin-top:20px;}
 .blog-grid .blog-img .date {
   position: absolute;
   background: #fc5356;
-  color: #ffffff;
+  color: #d46a6a;
   padding: 8px 15px;
   left: 10px;
   top: 10px;
@@ -63,7 +66,7 @@ body{margin-top:20px;}
   box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
   border-radius: 5px;
   overflow: hidden;
-  background: #ffffff;
+  background: #c63838;
   margin-top: 15px;
   margin-bottom: 15px;
   width: 100%;
@@ -84,18 +87,13 @@ body{margin-top:20px;}
   margin: 0;
 }
 .blog-aside .widget-author .media {
-  margin-bottom: 15px;
+  margin-bottom: 39px;
 }
 .blog-aside .widget-author p {
   font-size: 16px;
   margin: 0;
 }
-.blog-aside .widget-author .avatar {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  overflow: hidden;
-}
+
 .blog-aside .widget-author h6 {
   font-weight: 600;
   color: #20247b;
@@ -190,11 +188,11 @@ body{margin-top:20px;}
 }
 .article .article-title h6 a {
   text-transform: uppercase;
-  color: #fc5356;
-  border-bottom: 1px solid #fc5356;
+  color: #4cd21b;
+  border-bottom: 1px solid #59fc53;
 }
 .article .article-title h2 {
-  color: #20247b;
+  color: #2e7a0d;
   font-weight: 600;
 }
 .article .article-title .media {
