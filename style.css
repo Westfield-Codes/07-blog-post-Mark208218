@@ -66,7 +66,7 @@ body{margin-top:10px;}
   box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
   border-radius: 5px;
   overflow: hidden;
-  background: #c63838;
+  background: #3ef35c;
   margin-top: 15px;
   margin-bottom: 15px;
   width: 100%;
@@ -83,7 +83,7 @@ body{margin-top:10px;}
 .blog-aside .widget-title h3 {
   font-size: 20px;
   font-weight: 700;
-  color: #fc5356;
+  color: #75fc53;
   margin: 0;
 }
 .blog-aside .widget-author .media {
@@ -236,7 +236,7 @@ body{margin-top:10px;}
 .article .article-content blockquote p {
   font-size: 20px;
   font-weight: 500;
-  color: #fc5356;
+  color: #38e781;
   margin: 0;
 }
 .article .article-content blockquote .blockquote-footer {
@@ -274,4 +274,3 @@ img {
  .bg-white_border_rounded-5 {
  padding: 30px;
  }
-
