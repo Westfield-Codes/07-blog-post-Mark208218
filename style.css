@@ -1,8 +1,9 @@
-body{margin-top:10px;}
+body{margin-top:0px;}
 .blog-listing {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
 .gray-bg {
     background-color: #18d071;
 }
@@ -153,11 +154,12 @@ body{margin-top:10px;}
 }
 
 .tag-cloud a {
-  padding: 4px 15px;
-  font-size: 11px;
+  font-family: "Georgia";
+  padding: 7px 25px;
+  font-size: 12px;
   color: #ffffff;
   background: #30b41f;
-  border-radius: 2px;
+  border-radius: 20px;
   margin-right: 4px;
   margin-bottom: 4px;
 }
